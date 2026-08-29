@@ -78,11 +78,11 @@ The data obtained from the U.S. government website might require some preprocess
 The Sales for Retail and Food Services in U.S.A. project provides a comprehensive analysis of sales data within the Retail and Food Services sectors. The use of SQL and data from the U.S. government website ensures data accuracy and reliability. The interactive dashboard offers a user-friendly interface to explore the data visually and gain valuable insights. This project is valuable for businesses, policymakers, and researchers looking to understand and leverage sales trends in the U.S.A.
 
 ## Author
-- <ins><b>©2023 Tushar Aggarwal. All rights reserved</b></ins>
-- <b>[LinkedIn](https://www.linkedin.com/in/tusharaggarwalinseec/)</b>
-- <b>[Medium](https://medium.com/@tushar_aggarwal)</b> 
-- <b>[Tushar-Aggarwal.com](https://www.tushar-aggarwal.com/)</b>
-- <b>[New Kaggle](https://www.kaggle.com/tagg27)</b> 
+- <ins><b>©2026 Kevin Ocran. All rights reserved</b></ins>
+- <b>[LinkedIn](https://www.linkedin.com/in/kevin-atoampong-ocran)</b>
+- <b>[New Medium](https://medium.com/@ocrankevin42)</b> 
+- <b>[Kevin Ocran.com](https://kevinocran.github.io)</b>
+- <b>[New Kaggle](https://www.kaggle.com/kevinocran)</b> 
 
 ## Contact me!
 
